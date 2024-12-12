@@ -1,0 +1,1 @@
+https://www.lens.org/lens/search/patent/list?q=lens_id:%22000-209-911-351-491%22&p=0&n=10&f=false&e=false&l=en&authorField=author&dateFilterField=publishedDate&presentation=false&preview=true&stemmed=true&useAuthorId=false
